@@ -76,19 +76,6 @@ Cloud              Azure, AWS, GCP, Kubernetes, observability, secure deployment
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![Rithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithik2000&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rithik2000&layout=compact&theme=tokyonight&hide_border=true)
-
-![Contribution Snake](https://raw.githubusercontent.com/rithik2000/rithik2000/output/snake.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rithik2000&style=for-the-badge&color=36BCF7)
